@@ -9,7 +9,9 @@ public class Lab011 {
 
         char a1= 'A';
         char b1= 'B';
-        String c1=a1+b1;
+        int c1=a1+b1;
         System.out.println(c1);
+        System.out.println('A'==65);
+        System.out.println('B'==69);
     }
 }
